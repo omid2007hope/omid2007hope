@@ -8,27 +8,6 @@
 
 </div>
 
----
-
-## 🌌 About
-- 🧭 Proficient in front-end tech like React, Angular, and Vue.js, plus back-end experience with Node.js, Python, and PHP.
-- 🚀 Comfortable with DevOps, CI/CD, and cloud (AWS, Azure, GCP) for smooth shipping.
-- 🤖 Built AI-powered apps and integrated them with web and ChatGPT.
-- 🧠 Deep knowledge of deep learning, Odoo, recommendation systems, and reinforcement systems.
-- 🎯 Focused on design systems, accessibility, and performance budgets.
-- 🛰️ Remote-friendly, async-first, documentation-driven.
-
----
-
-## ✨ Snapshot
-- 10+ years crafting web experiences across products, startups, and client work.
-- Specialized in React + Tailwind for fast, expressive interfaces.
-- Strong in component architecture, state management, and DX ergonomics.
-- Comfortable taking designs from Figma to production-grade frontends.
-- Expanding backend skills to deliver end-to-end features.
-
----
-
 ## 📚 My favorite tools and technologies
 
 <table>
@@ -67,61 +46,8 @@
   </tr>
 </table>
 
----
-
-## 🎡 Animated accents
-- Typing header: powered by `readme-typing-svg` for a living headline.
-- You can add more motion with SVG waves or GIF dividers if desired.
-- Keep motion purposeful: highlight content, avoid clutter.
-
----
-
-## 🛠️ Recent builds
-- Interactive dashboards with React, Tailwind, and charting libs.
-- Marketing sites with buttery scroll, responsive grids, and fast LCP.
-- Admin panels with role-based access, forms, and data tables.
-- AI-assisted tools leveraging ChatGPT APIs inside web flows.
-
----
-
-## 🧪 Quality + performance
-- Lighthouse/axe checks for accessibility and performance budgets.
-- Bundle splitting, code-splitting, and sensible caching strategies.
-- Reusable component patterns and design token systems.
-
----
-
-## 🎓 Currently learning
-- Node.js services with Express and modern tooling.
-- Databases: relational + NoSQL fundamentals, migrations, querying.
-- CI/CD pipelines for frontends (build, test, preview, deploy).
-
----
-
-## 🧭 Working style
-- Documentation-first, async-friendly, with crisp communication.
-- Design-to-dev collaboration via Figma/Illustrator handoff.
-- GitHub flow with PR hygiene, code reviews, and previews.
-
----
-
-## 🌱 Values
-- Ship small, ship often, measure impact.
-- Accessibility and inclusivity baked into UI decisions.
-- Performance as a feature, not an afterthought.
-
----
-
 ## 🔗 Connect
 - GitHub: https://github.com/omidteimory
 - Portfolio: https://your-portfolio-link.com
 - LinkedIn: https://www.linkedin.com/in/your-link
 - Email: you@example.com
-
----
-
-<div align="center">
-
-*Clean UI, fast delivery, bold polish. Always leveling up.* ✨
-
-</div>
