@@ -1,83 +1,96 @@
 <h1 align="center">Omid Teimory</h1>
+<p align="center"><strong>Frontend Web Developer</strong></p>
+
 <p align="center">
-  <strong>Frontend Web Developer</strong>  
+  Open to freelance or full-time frontend roles  
   <br/>
-  Open to freelance or full-time frontend roles
+  Focused on building clean, modern, high-performance web applications.
 </p>
 
 ---
 
-## 👨‍💻 About Me
-Frontend developer focused on building fast, clean, modern web applications using **React, JavaScript, and Tailwind**.  
-Currently studying backend development (**Node.js, databases**) to become a full-stack engineer.
+## 🚀 About Me
+Frontend developer specializing in **React, JavaScript, Tailwind**, and modern UI development.  
+Currently expanding into backend (Node.js + databases) to become a full-stack engineer.
 
-I’m disciplined, fast-learning, and committed to leveling up every single day.
+Disciplined, fast-learning, and pushing forward every day.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technologies & Tools
 
 ### **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" height="45" />
-</p>
+- HTML  
+- CSS  
+- JavaScript (ES6+)  
+- React  
+- React Suite  
+- React Router DOM  
+- Redux  
+- Tailwind CSS  
+- Bootstrap  
 
 ### **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=github,git,figma,postman,vscode" height="45" />
-</p>
+- Git & GitHub  
+- Figma  
+- Adobe Illustrator  
+- Postman  
+- VS Code  
 
 ### **Currently Learning**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres" height="45" />
-</p>
+- Node.js  
+- Express  
+- MongoDB  
+- PostgreSQL  
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Work
 
-### 🔹 **Velora E-Commerce**
-A full e-commerce experience with:
+### **🔹 Velora — E-Commerce Web App**
 - React + Tailwind  
 - Google Sign-In  
-- LocalStorage state persistence  
-- Checkout flow (shipping, tax, totals)  
+- LocalStorage user/session management  
+- Dynamic checkout: shipping, tax, and order summary logic  
+- Modern UI + responsive design  
 
-### 🔹 **Portfolio Website**
-Your personal portfolio showcasing all your work.  
-Deployed on **Ubuntu + Nginx**.
+### **🔹 Personal Portfolio (Live)**
+- Fully responsive React + Tailwind design  
+- Deployed on **Ubuntu 22.04 + Nginx**  
+- Clean animations and polished UX  
 
-### 🔹 **Task Manager (in progress)**
-Becoming a full-stack project.
-
----
-
-## 🎯 What I’m Working On
-- Advancing into full-stack development (Node + database)
-- Building polished, production-ready UI/UX
-- Strengthening GitHub + LinkedIn presence
-- Preparing for professional frontend roles
+### **🔹 Task Manager (WIP)**
+- Becoming a full-stack app (React + Node)  
+- LocalStorage → database transition planned  
 
 ---
 
-## 📫 Connect With Me
-<p>
-  <a href="https://github.com/omidteimory">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
-  &nbsp;
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  &nbsp;
-  <a href="YOUR_X_URL">
-    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
-  </a>
+## 📈 What I’m Focusing On
+- Deepening React ecosystem mastery  
+- Building Node.js backend skills  
+- Improving deployment, CI/CD, and production workflows  
+- Preparing for professional frontend roles in Austria  
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+
+**GitHub:**  
+👉 https://github.com/omidteimory  
+
+**LinkedIn:**  
+👉 *Add your link here*  
+
+**X (Twitter):**  
+👉 *Add your link here*  
+
 </p>
 
 ---
 
-## 🧭 Vision
-Master frontend → full-stack → secure a dev job in Austria → move to the U.S. → serve in the Marine Corps.
+## 🎯 Vision
+Become a top-tier full-stack developer → secure a tech role → move to the U.S. → earn the right to serve in the Marine Corps.
 
-Focused. Driven. Moving forward every day.
+Focused. Relentless. Moving forward every day.
