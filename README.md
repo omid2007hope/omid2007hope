@@ -8,19 +8,6 @@
 
 </div>
 
----
-
-## 🚀 About Me
-
-Frontend Web Developer focused on building **clean, fast, modern** web applications using  
-**React, JavaScript, Tailwind, Redux, Bootstrap, React Router DOM**.
-
-Currently expanding into **Node.js and databases** to grow into full-stack.
-
-Disciplined. Fast-learning. Moving forward every day.
-
----
-
 ## 📚 My Favorite Tools & Technologies
 
 <table>
@@ -61,14 +48,4 @@ Disciplined. Fast-learning. Moving forward every day.
 - **Portfolio:** *Add your link*  
 - **LinkedIn:** *Add your link*  
 - **X (Twitter):** *Add your link*  
-- **Email:** *Add your email*  
-
----
-
-## 🎯 Next Steps
-- Master full-stack (Node.js + DB)  
-- Build production-grade frontend applications  
-- Secure a developer role in Austria  
-- Move to the U.S. and pursue military service  
-
-Focused. Relentless. Driven every day.
+- **Email:** *Add your email*
