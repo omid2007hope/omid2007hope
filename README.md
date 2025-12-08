@@ -2,55 +2,66 @@
 
 `omidteimory / README.md`
 
-# 👋 Software Engineer 👋
+# COSMIC FRONTEND ENGINEER
+### Building luminous, high-velocity web experiences
 
-**Full-Stack Dev**
+```
+  /\   /\
+ /  \_/  \    signal: clean UI, fast delivery, bold polish
+ \__/ \__/    orbit: React, design systems, DX obsession
+```
 
 </div>
 
-<br />
+<hr />
 
-- 🧭 Proficient in front-end technologies like React, Angular, and Vue.js, as well as back-end technologies like Node.js, Python, and PHP
-- 🚀 Experienced in DevOps, CI/CD, and cloud infrastructure, especially with AWS and Azure also GCP
-- 🤖 Developed some AI apps and integrated with web and ChatGPT.
-- 🧠 Deep knowledge about deep learning, Odoo, recommendation systems, and reinforcement systems.
+### Mission Brief
+- Frontend-first: HTML, CSS, JavaScript, React, React Suite, React Router DOM, Redux, Tailwind, Bootstrap.
+- Product polish: tight component architecture, purposeful motion, accessible flows, pixel-trustworthy UI.
+- Systems mind: GitHub workflows, design collaboration in Figma/Illustrator, API play with Postman.
+- Expansion pack: studying backend (Node.js + databases) to ship end-to-end.
 
-<br />
+<hr />
 
-## 📚 My favorite tools and technologies
+### Stack Nebula
 
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /></td>
-    <td><img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" /></td>
-    <td><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Webpack-2b3a42?style=flat&logo=webpack&logoColor=8dd6f9" /></td>
-    <td><img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=FF9900" /></td>
-    <td><img src="https://img.shields.io/badge/C%23-68217A?style=flat&logo=c-sharp&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Django-0C4B33?style=flat&logo=django&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" /></td>
+    <td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /></td>
+    <td><img src="https://img.shields.io/badge/React_Suite-2B2B2B?style=flat&logo=react&logoColor=61DAFB" /></td>
+    <td><img src="https://img.shields.io/badge/React_Router_DOM-CA4245?style=flat&logo=react-router&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Tailwind_CSS-0EA5E9?style=flat&logo=tailwind-css&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Tailwind-0EA5E9?style=flat&logo=tailwind-css&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" /></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" /></td>
     <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/VSCode-0078d7?style=flat&logo=visual%20studio%20code&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Vue-35495E?style=flat&logo=vue.js&logoColor=4FC08D" /></td>
-    <td><img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Databases-Learning-555555?style=flat&logo=databricks&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/VS_Code-0078d7?style=flat&logo=visual%20studio%20code&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Yarn-2C8EBB?style=flat&logo=yarn&logoColor=white" /></td>
   </tr>
 </table>
+
+<hr />
+
+### Current Flight Path
+- Launching: new portfolio section with motion, glassmorphism accents, and dark/light sync.
+- Hardening: design system tokens (spacing, type scale, color ramp) for faster prototyping.
+- Leveling up: Node.js services + relational/NoSQL basics to own more of the stack.
+- Fidelity: improving audit scores (Lighthouse/axe) while keeping animation crisp.
+
+<hr />
+
+### Signal Back
+- GitHub: https://github.com/omid2007hope
+- Portfolio: https://omidteimory.com
+- LinkedIn: www.linkedin.com/in/omid-teimory-48233638b
+- Email: omidhope2007@gmail.com
