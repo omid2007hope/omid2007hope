@@ -1,96 +1,56 @@
-<h1 align="center">Omid Teimory</h1>
-<p align="center"><strong>Frontend Web Developer</strong></p>
+<div align="center">
 
-<p align="center">
-  Open to freelance or full-time frontend roles  
-  <br/>
-  Focused on building clean, modern, high-performance web applications.
-</p>
+## Omid Teimory
+**Frontend Web Developer** • Vienna-bound | Remote-friendly
 
----
+[Portfolio](https://your-portfolio-link.com) · [GitHub](https://github.com/omidteimory) · [LinkedIn](https://www.linkedin.com/in/your-link) · [Email](mailto:you@example.com)
 
-## 🚀 About Me
-Frontend developer specializing in **React, JavaScript, Tailwind**, and modern UI development.  
-Currently expanding into backend (Node.js + databases) to become a full-stack engineer.
-
-Disciplined, fast-learning, and pushing forward every day.
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools
-
-### **Frontend**
-- HTML  
-- CSS  
-- JavaScript (ES6+)  
-- React  
-- React Suite  
-- React Router DOM  
-- Redux  
-- Tailwind CSS  
-- Bootstrap  
-
-### **Tools**
-- Git & GitHub  
-- Figma  
-- Adobe Illustrator  
-- Postman  
-- VS Code  
-
-### **Currently Learning**
-- Node.js  
-- Express  
-- MongoDB  
-- PostgreSQL  
+### Hi there 👋
+Disciplined frontend dev building clean, fast, and reliable web apps. I ship polished UIs with React + Tailwind, and I am leveling up on the backend (Node.js, databases) to grow into a full-stack engineer.
 
 ---
 
-## 📌 Featured Work
-
-### **🔹 Velora — E-Commerce Web App**
-- React + Tailwind  
-- Google Sign-In  
-- LocalStorage user/session management  
-- Dynamic checkout: shipping, tax, and order summary logic  
-- Modern UI + responsive design  
-
-### **🔹 Personal Portfolio (Live)**
-- Fully responsive React + Tailwind design  
-- Deployed on **Ubuntu 22.04 + Nginx**  
-- Clean animations and polished UX  
-
-### **🔹 Task Manager (WIP)**
-- Becoming a full-stack app (React + Node)  
-- LocalStorage → database transition planned  
+### Core Focus
+- Frontend craft: React, modern JavaScript, accessible UI, smooth UX
+- Performance + quality: component architecture, state management, testing mindset
+- Deployments: Nginx on Ubuntu, CI/CD basics, observability curiosity
+- Growth path: backend fundamentals (Node/Express, SQL/NoSQL) and cloud readiness
 
 ---
 
-## 📈 What I’m Focusing On
-- Deepening React ecosystem mastery  
-- Building Node.js backend skills  
-- Improving deployment, CI/CD, and production workflows  
-- Preparing for professional frontend roles in Austria  
+### Toolbox
+**Languages & Frameworks:** React, JavaScript (ES6+), HTML, CSS, Redux, React Router, Tailwind CSS, Bootstrap  
+**Design & Product:** Figma, Adobe Illustrator, UX polish, microcopy awareness  
+**Tools:** Git/GitHub, Postman, VS Code, npm/yarn, basic CI/CD workflows  
+**Learning Now:** Node.js, Express, MongoDB, PostgreSQL
 
 ---
 
-## 🔗 Connect With Me
-
-<p align="left">
-
-**GitHub:**  
-👉 https://github.com/omidteimory  
-
-**LinkedIn:**  
-👉 *Add your link here*  
-
-**X (Twitter):**  
-👉 *Add your link here*  
-
-</p>
+### Highlighted Projects
+**Velora E-Commerce** — React + Tailwind, Google Sign-In, LocalStorage session handling, dynamic checkout (shipping/tax/order summary), responsive UI.  
+**Personal Portfolio** — Responsive React + Tailwind, deployed on Ubuntu 22.04 with Nginx, smooth animations and clean UX.  
+**Task Manager (WIP)** — Frontend in React; evolving into full-stack with Node, moving from LocalStorage to a real database.
 
 ---
 
-## 🎯 Vision
-Become a top-tier full-stack developer → secure a tech role → move to the U.S. → earn the right to serve in the Marine Corps.
+### Current Priorities
+- Sharpen React ecosystem expertise (performance, DX, testing)
+- Build production-ready Node services and database skills
+- Strengthen deployment, CI/CD, and cloud know-how
+- Prepare for professional frontend roles in Austria and beyond
 
-Focused. Relentless. Moving forward every day.
+---
+
+### Connect
+- GitHub: https://github.com/omidteimory
+- LinkedIn: add your link
+- X (Twitter): add your link
+
+---
+
+### Vision
+Become a top-tier full-stack engineer, secure a great role, and keep serving with purpose. Relentless progress, every day.
