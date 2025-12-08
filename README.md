@@ -2,7 +2,7 @@
 
 `omidteimory / README.md`
 
-# 👋 Software Engineer 👋
+# 👋 Web Developer 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2400&pause=800&color=3AE8C7&center=true&vCenter=true&width=900&lines=Frontend+Web+Developer;React+%7C+Tailwind+%7C+Redux+%7C+JavaScript;Building+modern+UI+with+clean+performance;Studying+Node.js+%26+databases;Focused+and+improving+daily" alt="Typing animation" />
 
