@@ -45,7 +45,7 @@
 ## 🔗 Connect With Me
 
 - **GitHub:** https://github.com/omidteimory  
-- **Portfolio:** *Add your link*  
-- **LinkedIn:** *Add your link*  
-- **X (Twitter):** *Add your link*  
-- **Email:** *Add your email*
+- **Portfolio:** https://omidteimory.com
+- **LinkedIn:** www.linkedin.com/in/omid-teimory-48233638b
+- **X (Twitter):** https://x.com/Omid2007hope
+- **Email:** omidhope2007@gmail.com
