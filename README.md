@@ -8,7 +8,7 @@
 
 </div>
 
-## 📚 My Favorite Tools & Technologies
+## ⚛️ Tools & Technologies
 
 <table>
   <tr>
