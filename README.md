@@ -1,6 +1,6 @@
 <div align="center">
 
-`omidteimory / README.md`
+`Omid Teimory / README.md`
 
 # 👋 Web Developer 👋
 
@@ -42,9 +42,7 @@
 
 ---
 
-## 🔗 Connect With Me
-
-- **GitHub:** https://github.com/omidteimory  
+## 🔗 Connect With  
 - **Portfolio:** https://omidteimory.com
 - **LinkedIn:** www.linkedin.com/in/omid-teimory-48233638b
 - **X (Twitter):** https://x.com/Omid2007hope
