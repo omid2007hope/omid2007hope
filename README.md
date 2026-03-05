@@ -2,7 +2,9 @@
 
 `Omid Teimory / README.md`
 
-# 👋 Full-Stack Developer | HTML, CSS, JavaScript, React, Tailwind, Redux, React Router, GitHub, Figma (UI, UX), Postman, MongoDB, Node.js, Express.js.👋
+# 👋 Full-Stack Developer👋
+
+# HTML, CSS, JavaScript, React, Tailwind, Redux, React Router, GitHub, Figma (UI, UX), Postman, MongoDB, Node.js, Express.js
 
 # 💼 Open To Work 💼
 
