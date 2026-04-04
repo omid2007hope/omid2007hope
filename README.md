@@ -4,8 +4,6 @@
 
 # 👋 Full-Stack Developer👋
 
-# 💼 Open To Work 💼
-
 ## ⚛️ Tools & Technologies
 
 <table>
