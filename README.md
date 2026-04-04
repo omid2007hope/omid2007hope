@@ -1,9 +1,6 @@
 <div align="center">
 
 `Omid Teimory / README.md`
-
-# 👋 Full-Stack Developer👋
-
 ## ⚛️ Tools & Technologies
 
 <table>
