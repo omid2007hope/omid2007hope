@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@17b65dc4-7043-4e9d-9f96-6b98d65254a2/224e5f68-f8f4-4c46-9e90-d4b1dfcf98dd.png" /></a>
+<figure><embed src="https://wakatime.com/share/@17b65dc4-7043-4e9d-9f96-6b98d65254a2/b329089d-6f04-4cd3-8c5e-7695f119aac4.svg"></embed></figure>
 
 
 `Omid Teimory / README.md`
