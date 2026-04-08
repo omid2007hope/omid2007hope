@@ -1,5 +1,7 @@
 <div align="center">
 
+<figure><embed src="https://wakatime.com/share/@17b65dc4-7043-4e9d-9f96-6b98d65254a2/e9feb9be-d24f-46da-8414-359f19d381c6.svg"></embed></figure>
+
 `Omid Teimory / README.md`
 ## ⚛️ Tools & Technologies
 
