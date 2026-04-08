@@ -1,40 +1,91 @@
 <div align="center">
 
-<figure><embed src="https://wakatime.com/share/@17b65dc4-7043-4e9d-9f96-6b98d65254a2/b329089d-6f04-4cd3-8c5e-7695f119aac4.svg"></embed></figure>
+<img src="https://wakatime.com/share/@17b65dc4-7043-4e9d-9f96-6b98d65254a2/b329089d-6f04-4cd3-8c5e-7695f119aac4.svg" width="600"/>
 
+# ⚛️ Tech Stack
 
-`Omid Teimory / README.md`
-## ⚛️ Tools & Technologies
+</div>
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /></td>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000" /></td>
-    <td><img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" /></td>
-  </tr>
+---
 
-  <tr>
-    <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Tailwind-0EA5E9?style=flat&logo=tailwind-css&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" /></td>
-  </tr>
+## 🚀 Core Technologies
 
-  <tr>
-    <td><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" /></td>
-  </tr>
+### 🧠 Frontend (Primary Strength)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC"/>
+</p>
 
-  <tr>
-    <td><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/VSCode-0078d7?style=flat&logo=visual%20studio%20code&logoColor=white" /></td>
-  </tr>
-</table>
+---
+
+### ⚙️ Backend & APIs
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=white"/>
+</p>
+
+---
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+</p>
+
+---
+
+### 🛠️ Tools & Workflow
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
+</p>
+
+---
+
+## 🚀 What I Build
+
+<div align="center">
+
+⚡ Full-stack web applications (production-ready)  
+🛒 E-commerce systems (auth, cart, checkout, orders)  
+🔌 Scalable REST APIs with Node.js & MongoDB  
+🎯 Modern UI/UX with React + Tailwind  
+
+</div>
+
+---
+
+## 🧠 Featured Project
+
+<div align="center">
+
+### 🛍️ Velora – Full-Stack E-Commerce Platform
+
+</div>
+
+- ⚛️ React + Next.js frontend  
+- ⚙️ Node.js + Express backend  
+- 🗄️ MongoDB database  
+- 🔐 Authentication & authorization  
+- 🛒 Cart, checkout & order system  
+
+🔗 https://velorashop.app
+
+---
+
+## 📊 Development Activity
+
+<div align="center">
+
+<img src="https://wakatime.com/share/@17b65dc4-7043-4e9d-9f96-6b98d65254a2/b329089d-6f04-4cd3-8c5e-7695f119aac4.svg" width="700"/>
+
+</div>
 
 ---
 
