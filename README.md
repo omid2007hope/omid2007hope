@@ -16,6 +16,8 @@
 
 These three numbers are successive filters: raw → node_modules-excluded → refined user-authored. The refined number (597 / 39,469 LOC) is the recommended single-number summary of your own authored sources in this period.
 
+---
+
 ### 🧠 Frontend (Primary Strength)
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
