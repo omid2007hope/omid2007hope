@@ -1,4 +1,8 @@
-<figure><embed src="https://wakatime.com/share/@17b65dc4-7043-4e9d-9f96-6b98d65254a2/e306bc4a-514d-4051-9daf-be2422af37b5.svg"></embed></figure>
+<div align="center">
+
+<embed src="https://wakatime.com/share/@17b65dc4-7043-4e9d-9f96-6b98d65254a2/e306bc4a-514d-4051-9daf-be2422af37b5.svg"></embed>
+
+</div>
 
 ## 📊 Development Activity
 
