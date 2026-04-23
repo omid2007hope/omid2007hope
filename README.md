@@ -8,6 +8,14 @@
 
 ---
 
+## Quick summary
+
+- Best automated estimate of user-authored code since 2025-07-01: 597 files, 39,469 total lines of code (LOC).
+- Intermediate scan (excluded `node_modules` only): 1,012 files, 234,414 LOC.
+- Raw scan (no exclusions): 2,121 files, 1,040,033 LOC (includes node_modules, build artifacts, lockfiles, etc.).
+
+These three numbers are successive filters: raw → node_modules-excluded → refined user-authored. The refined number (597 / 39,469 LOC) is the recommended single-number summary of your own authored sources in this period.
+
 ### 🧠 Frontend (Primary Strength)
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
