@@ -8,11 +8,15 @@
 
 </div>
 
+---
+
 - <div align="center">
 
 <img src="https://wakatime.com/share/@Omid2007hope/b755ed55-0cbc-4858-8b80-2992901721cf.svg" > 
 
 </div>
+
+---
 
 - <div align="center">
 
@@ -66,6 +70,8 @@ These three numbers are successive filters: raw → node_modules-excluded → re
   <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
   <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
 </p>
+
+---
 
 ### 🧠 Familiar with:
 <p align="center">
