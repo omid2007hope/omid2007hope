@@ -8,6 +8,20 @@
 
 </div>
 
+- <div align="center">
+
+<img src="https://wakatime.com/share/@Omid2007hope/b755ed55-0cbc-4858-8b80-2992901721cf.svg" > 
+
+</div>
+
+- <div align="center">
+
+<img src="https://wakatime.com/share/@17b65dc4-7043-4e9d-9f96-6b98d65254a2/fa8b10a9-67ca-45ad-8943-a553a2ff9530.svg" > 
+
+</div>
+
+
+
 ---
 
 ## Quick summary
@@ -95,8 +109,3 @@ These three numbers are successive filters: raw → node_modules-excluded → re
 - **X (Twitter):** https://x.com/Omid2007hope
 - **Email:** omidhope2007@gmail.com
 
-- <div align="center">
-
-<img src="https://wakatime.com/share/@17b65dc4-7043-4e9d-9f96-6b98d65254a2/fa8b10a9-67ca-45ad-8943-a553a2ff9530.svg" > 
-
-</div>
