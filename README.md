@@ -56,52 +56,24 @@ These three numbers are successive filters: raw → node_modules-excluded → re
 ### 🗄️ Databases
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4EA94B"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
 </p>
 
 ---
 
 ### 🛠️ Tools & Workflow
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E"/>
   <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
 </p>
 
----
+### 🧠 Familiar with:
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
 
-## 🚀 What I Build
 
-<div align="center">
-
-⚡ Full-stack web applications (production-ready)  
-🛒 E-commerce systems (auth, cart, checkout, orders)  
-🔌 Scalable REST APIs with Node.js & MongoDB  
-🎯 Modern UI/UX with React + Tailwind  
-
-</div>
-
----
-
-## 🧠 Featured Project
-
-<div align="center">
-
-### 🛍️ Velora – Full-Stack E-Commerce Platform
-
-</div>
-
-- ⚛️ React + Next.js frontend  
-- ⚙️ Node.js + Express backend  
-- 🗄️ MongoDB database  
-- 🔐 Authentication & authorization  
-- 🛒 Cart, checkout & order system  
-
-🔗 https://velorashop.app
-
----
 
 ## 🔗 Connect With  
 - **Portfolio:** https://omidteimory.com
